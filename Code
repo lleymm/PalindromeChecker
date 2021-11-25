@@ -1,8 +1,0 @@
-s = input("Input:")
-
-rc = (s[::-1])
-
-if rc==s:
-    print("Output:"+s+" is a palindrome")
-else:
-    print("Output:"+s+" is not a palindrome")
